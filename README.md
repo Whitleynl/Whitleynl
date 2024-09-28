@@ -21,7 +21,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### 🧑‍💻 Stats
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitleynl&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitleynl&layout=compact&theme=radical)
