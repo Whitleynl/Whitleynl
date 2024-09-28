@@ -1,10 +1,10 @@
 ## Hi there! 👋 I'm Nathan Whitley
 
 ### About Me
-- 💻 I’m a full stack software developer.
+- I’m a full stack software developer.
 - I like **Python** and **React**.
-- 🌱 Currently learning more about **Django**, **TailwindCSS**, and **MySQL**.
-- 🎵 Fun fact: I love playing guitar, writing music, and producing it with **Logic Pro**.
+- Currently learning more about **Django**, **TailwindCSS**, and **MySQL**.
+- Fun fact: I love playing guitar, writing music, and producing it with **Logic Pro**.
 
 ### 📫 How to reach me:
 - Email: nlwhit81@gmail.com
