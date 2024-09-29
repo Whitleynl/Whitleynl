@@ -9,6 +9,7 @@
 ### 📫 How to reach me:
 - Email: nlwhit81@gmail.com
 - LinkedIn: [Nathan Whitley](https://linkedin.com/in/whitleynl)
+- checkout my blog where I document my learning process: [https://whitleynl.github.io/Blog/update/2024/09/29/progress-jekyll.html](https://whitleynl.github.io/Blog/)
 
 ### 🛠️ Technologies & Tools:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
